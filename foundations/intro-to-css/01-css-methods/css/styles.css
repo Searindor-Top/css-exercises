@@ -1,0 +1,8 @@
+.external{
+    background-color:red;
+    color: white;
+    /*font-family: Arial, 'Times New Roman', sans-serif;*/
+    font-size: 2em;
+    font-weight:bold;
+    text-align: center;
+}

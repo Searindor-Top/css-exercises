@@ -1,0 +1,16 @@
+body>*:nth-child(odd){
+    background-color:#FFCCBB;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+body>*:nth-child(2){
+    color:rgb(16, 141, 224);
+    font-size:36px;
+}
+body>*:nth-child(3){
+    font-size:24px;
+}
+body>*:nth-child(4){
+    background-color: #068d06;
+    font-size:24px;
+    font-weight:bold;
+}
